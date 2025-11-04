@@ -7,12 +7,6 @@
 ![AI](https://img.shields.io/badge/tag-AI-lightgrey)
 
 # QScan Security Suite™ — Public Mirror
-
-
-# QScan Security Suite™ — Public Mirror
-
-
-# QScan Security Suite™ — Public Mirror
 ## 📘 Table of Contents
 - [Overview](#-overview)
 - [Core Modules](#-core-modules)
