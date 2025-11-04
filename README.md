@@ -1,3 +1,7 @@
+[![Verified Mirror](https://img.shields.io/badge/✅%20Verified%20Mirror-By%20Replit%20Architect%20&%20QSS%20Audit%20Team-blue)](#)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](#)
+
 # QScan Security Suite™ — Public Mirror
 
 ### Part of the QSS SynapseAI™ Ecosystem  
