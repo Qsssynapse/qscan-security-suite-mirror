@@ -1,13 +1,13 @@
 [![Verified Mirror](https://img.shields.io/badge/✅%20Verified%20Mirror-By%20Replit%20Architect%20&%20QSS%20Audit%20Team-blue)](#)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](#)
-[![Verified Mirror](https://img.shields.io/badge/✅%20Verified%20Mirror-By%20Replit%20Architect%20&%20QSS%20Audit%20Team-blue)](#)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green)](./LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](#)
 
 ![Cybersecurity](https://img.shields.io/badge/tag-cybersecurity-blue)
 ![Quantum Computing](https://img.shields.io/badge/tag-quantum--computing-purple)
 ![AI](https://img.shields.io/badge/tag-AI-lightgrey)
+
+# QScan Security Suite™ — Public Mirror
+
 
 # QScan Security Suite™ — Public Mirror
 
