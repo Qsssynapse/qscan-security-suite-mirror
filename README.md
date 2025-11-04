@@ -95,6 +95,7 @@ The QScan Security Suite™ is its flagship cybersecurity framework, built to me
 📬 Contact
 ✅ Verification Report
 📄 License
+
 **Kabir Hossain**  
 Founder & Chief Architect — QSS SynapseAI™  
 🌐 [https://qssplatform.com](https://qssplatform.com)  
