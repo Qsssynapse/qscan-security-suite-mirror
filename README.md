@@ -66,6 +66,13 @@ This **public mirror** provides a sanitized overview of the architecture, UI, an
 ❌ Private enterprise integrations  
 
 ---
+---
+
+## ✅ Verification Report
+[View latest mirror verification report →](./MIRROR_VERIFICATION_REPORT.json)  
+Generated automatically with SHA-256 integrity checks.
+
+---
 
 ## 📊 Validation & Recognition
 - External Validation Infrastructure ✅  
