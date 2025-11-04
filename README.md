@@ -3,6 +3,13 @@
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](#)
 
 # QScan Security Suite™ — Public Mirror
+## 📘 Table of Contents
+- [Overview](#-overview)
+- [Core Modules](#-core-modules)
+- [Technology Stack](#️-technology-stack)
+- [Validation & Recognition](#-validation--recognition)
+- [Contact](#-contact)
+- [License](#license)
 
 ### Part of the QSS SynapseAI™ Ecosystem  
 > Enterprise-grade cybersecurity + quantum intelligence for next-generation defense.
