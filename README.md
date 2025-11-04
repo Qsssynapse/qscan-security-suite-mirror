@@ -80,6 +80,9 @@ Generated automatically with SHA-256 integrity checks.
 - Replit Architect Audit ✅  
 - Visa 858 Global Talent Readiness Score 93 → 100 ✅  
 - Attestation Collector & Merkle Audit Ledger ✅  
+## ✅ Verification Report
+[View latest mirror verification report →](./MIRROR_VERIFICATION_REPORT.json)  
+Generated automatically with SHA-256 integrity checks.
 
 ---
 
@@ -89,7 +92,9 @@ The QScan Security Suite™ is its flagship cybersecurity framework, built to me
 
 ---
 
-## 📬 Contact
+📬 Contact
+✅ Verification Report
+📄 License
 **Kabir Hossain**  
 Founder & Chief Architect — QSS SynapseAI™  
 🌐 [https://qssplatform.com](https://qssplatform.com)  
